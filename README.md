@@ -19,7 +19,7 @@ Although, filetype which is provided in the database is .pdf that is not easily 
 ![Visualization summary](https://github.com/KittapatR/Tumruat/blob/main/figures/BI-tamruat.jpg)
 *Overall for the visualization*
 
-The business question is 
+The business question is :
 > How should the spatial strategy of police personnels be planned?
 ### 1. A map of crime rate in each region
 ![1](https://github.com/KittapatR/Tumruat/blob/main/visualization/Picture1.png)
