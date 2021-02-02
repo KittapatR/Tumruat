@@ -1,5 +1,5 @@
 # Crime Rate Visualization Projects via Tableau
-*CPE 329 Business Intelligence, April-May 2020*
+**CPE 329 Business Intelligence, April-May 2020**
 
 Visualization projects in statistics on crime rates in Thailand by a region
 
